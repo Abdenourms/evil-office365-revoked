@@ -1,6 +1,8 @@
 {
   "v": 1,
-  "updated": 1790372115246,
-  "revoked": [],
-  "sig": "xzTLPpIKAIy9urSqAIh7pyjOldj4UWhPUtCuKpeJg6MkJwf3j+0qeO6nWNbYascRUmemGxcJ3ToxXRCx3RplyQ=="
+  "updated": 1790546374430,
+  "revoked": [
+    "HWID:AD8C4A7B68AE6649E41AF16FEB73F176437BE839B9A6CB7BEBF58CFA4D7EDD54"
+  ],
+  "sig": "ATLzxBRFthPKwHWAv69IvJchBKnnO9AEVJqcMy7k+1A3ppc58t8yZYVWeqHpUPaoj+Mi+mPCnyyYTvxUWjBqHA=="
 }
